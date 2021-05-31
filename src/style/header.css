@@ -1,0 +1,15 @@
+.mainheader {
+    height: 10vh;
+    width: 100%;
+    background-color: 	#B4E5FF;
+  }
+  
+  .mainheader h1 {
+    font-size: 2rem;
+    color: black;
+    padding-top: 10px;
+    text-align: center;
+  }
+
+  
+  

@@ -1,0 +1,16 @@
+.randomheader {
+    height: 10vh;
+    width: 100%;
+    background-color: #232323;
+  }
+
+  .randomheader h1 {
+    text-align: center;
+    font-size: 2rem;
+    color: white;
+    text-align: center;
+    line-height: 80px;
+  }
+
+  
+  

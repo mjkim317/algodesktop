@@ -1,0 +1,127 @@
+
+
+.randompage {
+    background-color: #232323;
+}
+.sortBtn {
+    height: 5vh;
+    background-color: #232323;
+}
+
+.array-container {
+    /* position: absolute;
+    left: 100px; */
+    height: 85vh;
+    margin: 0 auto;
+    background-color: #232323;
+}
+
+.array-bar {
+    width: 7px;
+    background-color: white;
+    display: inline-block;
+    margin: 0 1px;
+}
+
+button {
+    margin: 0 0.3em 0.3em 0;
+    padding: 0.35em 1.2em;
+    border: 0.1em solid #FFFFFF;
+    border-radius: 0.12em;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    color: #FFFFFF;
+    text-align: center;
+    transition: all 0.2s;
+}
+
+.input-file-button:hover {
+    color: #000000;
+    background-color: #FFFFFF;
+}
+.input-file-button1:hover {
+    color: #000000;
+    background-color: #FFFFFF;
+}
+.input-file-button2:hover {
+    color: #000000;
+    background-color: #FFFFFF;
+}
+.input-file-button3:hover {
+    color: #000000;
+    background-color: #FFFFFF;
+}
+.input-file-button4:hover {
+    color: #000000;
+    background-color: #FFFFFF;
+}
+.input-file-button5:hover {
+    color: #000000;
+    background-color: #FFFFFF;
+}
+.linkhome:hover {
+    color: #000000;
+    background-color: #FFFFFF;
+}
+
+
+.input-file-button{
+    padding: 6px 25px;
+    background-color:#232323;
+    border-radius: 4px;
+    color: white;
+    cursor: pointer;
+    outline-color: white;  
+}
+
+  .input-file-button1{
+    padding: 6px 25px;
+    background-color:#232323;
+    border-radius: 4px;
+    color: white;
+    cursor: pointer;
+    border-color: white;
+
+  }
+
+  .input-file-button2{
+    padding: 6px 25px;
+    background-color:#232323;
+    border-radius: 4px;
+    color: white;
+    cursor: pointer;
+  }
+
+  .input-file-button3{
+    padding: 6px 25px;
+    background-color:#232323;
+    border-radius: 4px;
+    color: white;
+    cursor: pointer;
+  }
+
+  .input-file-button4{
+    padding: 6px 25px;
+    background-color:#232323;
+    border-radius: 4px;
+    color: white;
+    cursor: pointer;
+  }
+
+  .input-file-button5{
+    padding: 6px 25px;
+    background-color:#232323;
+    border-radius: 4px;
+    color: white;
+    cursor: pointer;
+  }
+
+  .linkhome{
+    padding: 6px 25px;
+    background-color:#232323;
+    border-radius: 4px;
+    color: white;
+    cursor: pointer;
+  }
